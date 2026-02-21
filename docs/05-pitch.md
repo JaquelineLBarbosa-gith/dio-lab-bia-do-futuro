@@ -21,9 +21,10 @@ Apresento o Diogo: um Educador Financeiro com Inteligência Artificial. Ele não
 Na prática, a interface é um chat amigável. Se o usuário perguntar "Qual ação eu compro hoje?", o Diogo recusa educadamente a recomendação (mantendo a ética) e foca em explicar como analisar uma ação. Ele usa o histórico do chat para manter uma conversa contínua e natural, sempre como um mentor paciente.
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+> Por que essa solução é inovadora e qual é o impacto dela na sociedade? 
 
-O grande diferencial do Diogo são os seus "Guardrails" (regras de segurança). Enquanto IAs comuns podem alucinar e dar dicas financeiras perigosas, o Diogo é "travado" para focar 100% em letramento financeiro. O impacto é a democratização do conhecimento, formando cidadãos mais seguros de si e independentes financeiramente.
+ O grande diferencial do Diogo são os seus "Guardrails" (regras de segurança). Enquanto IAs comuns podem alucinar e dar dicas financeiras perigosas, o Diogo é "travado" para focar 100% em letramento financeiro. O impacto é a democratização do conhecimento, formando cidadãos mais seguros de si e independentes financeiramente.
+
 ---
 
 ## Checklist do Pitch
