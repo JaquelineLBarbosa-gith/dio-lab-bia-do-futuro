@@ -39,6 +39,6 @@ Na prática, a interface é um chat amigável. Se o usuário perguntar "Qual aç
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+https://drive.google.com/file/d/1ghB5ate4VOq5sqdBdNFg-1mLUBAyReB8/view?usp=sharing
 
 [Projeto de Agente de IA Generativa entregue para avaliação do Bootcamp da DIO]
